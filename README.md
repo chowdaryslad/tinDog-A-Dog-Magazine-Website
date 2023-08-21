@@ -1,21 +1,37 @@
 # tinDog-A-Dog-Magazine-Website
 
-# Landing Page
-
 ![Screenshot (91)](https://user-images.githubusercontent.com/98008756/175251189-401a5e79-5886-44cf-beb0-2aabf075494d.png)
 
-# Features
+## Getting Started 🎧
 
-![Screenshot (92)](https://user-images.githubusercontent.com/98008756/175251167-f98d9d8d-2ce9-4492-bc25-ee64ad7fa4a8.png)
+This project utilized the benefits of multiple technologies such as Javascript, HTML5, CSS, and SCSS.
 
-# testimonials
+It's better if we familiarize ourselves with these technologies. 
 
-![Screenshot (95)](https://user-images.githubusercontent.com/98008756/175251179-64456a9b-20c1-4bff-812a-d48209391950.png)
+### Prerequisites
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
 
-# pricing
+There is no need for any software for running the project! The editor and package manager are all at your discretion. 
 
-![Screenshot (96)](https://user-images.githubusercontent.com/98008756/175251182-89840de0-7d57-430f-a1ba-774272add29c.png)
+## Installing☔
 
-# CTA 
+It is pretty straightforward :
 
-![Screenshot (97)](https://user-images.githubusercontent.com/98008756/175251187-5c452de6-b1ce-473f-aed5-46a80796196e.png)
+**Clone the repo:** 
+```
+git clone <repository Url>
+```
+
+## Deployment 💡
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
+
+**Run the application** 
+```
+Use live server extension in vs code.
+```
+
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
+
